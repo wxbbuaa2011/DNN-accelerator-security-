@@ -8,3 +8,6 @@ List
 5. Preventing Neural Network Model Exfiltration in Machine Learning Hardware Accelerators
 6. Neural Network Model Extraction Attacks in Edge Devices by Hearing Architectural Hints
 7. NPUFort: a secure architecture of DNN accelerator against model inversion attack
+
+
+欢迎大家一起交流：QQ：793625982
